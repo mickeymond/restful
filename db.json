@@ -1,0 +1,22 @@
+{
+  "allergies": [
+    { "id": 1, "name": "Almond" },
+    { "id": 2, "name": "Apple" },
+    { "id": 3, "name": "Avocado" },
+    { "id": 4, "name": "Banana" },
+    { "id": 5, "name": "Cherry" },
+    { "id": 6, "name": "Coconut" },
+    { "id": 7, "name": "Cabbage" },
+    { "id": 8, "name": "Carrot" }
+  ],
+  "preferences": [
+    { "id": 1, "name": "Almond" },
+    { "id": 2, "name": "Apple" },
+    { "id": 3, "name": "Avocado" },
+    { "id": 4, "name": "Banana" },
+    { "id": 5, "name": "Cherry" },
+    { "id": 6, "name": "Coconut" },
+    { "id": 7, "name": "Cabbage" },
+    { "id": 8, "name": "Carrot" }
+  ]
+}
