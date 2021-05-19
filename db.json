@@ -1,3 +1,0 @@
-{
-  "reviews_iconsets": [{"reviewType":"NPS","options":10,"preview ":"url of preview image for dropdown list","images":[{"url":"cdn/1.png","label":[{"en":"Not at all likely"},{"nl":"Absoluut niet"}]},{"url":"cdn/10.png","label":[{"en":"Extremely likely"},{"nl":"Zeer waarschijnlijk"}]}]},{"reviewType":"UpDown","options":2,"preview ":"url of preview image for dropdown list","images":[{"url":"cdn/thumbsup.png","label":[{"en":"Good"},{"nl":"Top"}]},{"url":"cdn/thumbsdown.png","label":[{"en":"Bad"},{"nl":"Kan beter"}]}]}]
-}
