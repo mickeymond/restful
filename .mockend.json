@@ -3,7 +3,6 @@
     "title": {"string":{}},
     "views": {"int":{"min": 0,"max": 99}},
     "published": {"boolean":{}},
-    "createdAt": {"date":{}},
     "comments": {"hasMany":"Comment"}
   },
   "Comment": {
