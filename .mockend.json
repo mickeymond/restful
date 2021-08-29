@@ -1,7 +1,7 @@
 {
   "Post": {
     "title": {"string":{}},
-    "views": {"int":{}},
+    "views": {"int":{"min": 0,"max": 99}},
     "published": {"boolean":{}},
     "createdAt": {"date":{}},
     "comments": {"hasMany":"Comment"}
